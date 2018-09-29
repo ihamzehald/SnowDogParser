@@ -1,0 +1,20 @@
+{
+  "name": "ihamzehald/snow-dog-sitemap-parser",
+  "description": "Sitemap parser that related to Snowdog task 6",
+  "keywords": ["cli", "console", "sitemap", "xml", "Snowdog"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hamza al darawsheh",
+      "email": "ihamzehald@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6 || ^7.2.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Composerdep\\": "src/"
+    }
+  }
+}
