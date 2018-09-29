@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Composerdep\\": "src/"
+      "SnowDog\\Tools\\": "src/"
     }
   }
 }
