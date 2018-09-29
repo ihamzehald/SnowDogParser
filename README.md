@@ -1,2 +1,2 @@
 # SnowDog sitemap parser
-XML parser as a part of SnowDog php test task6 
+XML sitemap parser as a part of SnowDog php test task6 
